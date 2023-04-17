@@ -1,0 +1,2 @@
+stm_log.c:7:5:_write	2
+stm_log.c:33:6:STM_Logging_Init	1
