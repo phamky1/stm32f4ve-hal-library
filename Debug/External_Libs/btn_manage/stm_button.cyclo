@@ -1,0 +1,11 @@
+stm_button.c:45:24:_btn_get_tick	1
+stm_button.c:49:20:_btn_tick_timeout	2
+stm_button.c:56:21:_btn_send_event	3
+stm_button.c:67:25:_find_btn_by_pin	4
+stm_button.c:77:21:_btn_update_state	10
+stm_button.c:105:14:btn_manage_update_state	3
+stm_button.c:115:21:_btn_manage_check_state	12
+stm_button.c:154:14:btn_manage_process	6
+stm_button.c:170:14:btn_register_event_callback	3
+stm_button.c:180:14:btn_manage_add_new_button	9
+stm_button.c:205:14:btn_manage_init	5

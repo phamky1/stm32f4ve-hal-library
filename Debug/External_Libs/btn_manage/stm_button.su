@@ -1,0 +1,11 @@
+../External_Libs/btn_manage/stm_button.c:45:24:_btn_get_tick	8	static
+../External_Libs/btn_manage/stm_button.c:49:20:_btn_tick_timeout	16	static
+../External_Libs/btn_manage/stm_button.c:56:21:_btn_send_event	24	static
+../External_Libs/btn_manage/stm_button.c:67:25:_find_btn_by_pin	32	static
+../External_Libs/btn_manage/stm_button.c:77:21:_btn_update_state	24	static
+../External_Libs/btn_manage/stm_button.c:105:14:btn_manage_update_state	32	static
+../External_Libs/btn_manage/stm_button.c:115:21:_btn_manage_check_state	16	static
+../External_Libs/btn_manage/stm_button.c:154:14:btn_manage_process	24	static
+../External_Libs/btn_manage/stm_button.c:170:14:btn_register_event_callback	24	static
+../External_Libs/btn_manage/stm_button.c:180:14:btn_manage_add_new_button	56	static
+../External_Libs/btn_manage/stm_button.c:205:14:btn_manage_init	32	static

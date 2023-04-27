@@ -1,4 +1,4 @@
-#include "stm_log.h"
+#include "../../External_Libs/stm_log/include/stm_log.h"
 
 static UART_HandleTypeDef *p_huart = NULL;
 stm_log_level_t log_level = STM_LOG_LEVEL_NONE;

@@ -9,8 +9,8 @@ RM := rm -rf
 
 # All of the sources participating in the build are defined here
 -include sources.mk
--include External\ Libs/stm_log/subdir.mk
--include External\ Libs/stm_button/subdir.mk
+-include External_Libs/stm_log/subdir.mk
+-include External_Libs/btn_manage/subdir.mk
 -include Drivers/STM32F4xx_HAL_Driver/Src/subdir.mk
 -include Core/Startup/subdir.mk
 -include Core/Src/subdir.mk

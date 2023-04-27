@@ -25,6 +25,6 @@ SUBDIRS := \
 Core/Src \
 Core/Startup \
 Drivers/STM32F4xx_HAL_Driver/Src \
-External\ Libs/stm_button \
-External\ Libs/stm_log \
+External_Libs/btn_manage \
+External_Libs/stm_log \
 
